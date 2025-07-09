@@ -113,6 +113,7 @@ Diseñé y desarrollé un sistema de **dashboards financieros en Power BI**, con
 │   └── images/
 │       └── debt_dashboard.png
 ├── README.md
+```plaintext
 
 ---
 
