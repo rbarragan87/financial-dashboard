@@ -92,7 +92,7 @@ Diseñé y desarrollé un sistema de **dashboards financieros en Power BI**, con
 ![cashflow](images/cashflow_dashboard.png)
 
 ### 📍 Deuda Consolidada  
-![debt](images/debt_dashboard.png)
+![debt](debt/images/debt_dashboard.png)
 
 🔐 Por razones de confidencialidad, no se incluyen archivos `.pbix` ni datos reales.
 
