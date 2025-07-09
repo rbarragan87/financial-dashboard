@@ -27,7 +27,7 @@ Diseñé y desarrollé un sistema de **dashboards financieros en Power BI**, con
 ## 📊 Descripción de los Dashboards
 
 ### 1. **Posición de Caja Semanal**
-📍 *Ruta: `/caja/`*
+📍 *Ruta: `/cash-position/images/`*
 
 - Consolidado global con desglose por país, región y marca.
 - Evolutivo de caja por semana.
@@ -35,14 +35,14 @@ Diseñé y desarrollé un sistema de **dashboards financieros en Power BI**, con
 - KPIs clave: total, por región y país.
 
 ### 2. **Detalle por País**
-📍 *Ruta: `/caja/`*
+📍 *Ruta: `/cash-position/images/`*
 
 - Visualización por país de la posición semanal.
 - KPIs: caja actual, máximo, mínimo del año.
 - Gráfica de tendencia con énfasis en outliers.
 
 ### 3. **Cashflow Mensual**
-📍 *Ruta: `/cashflow/`*
+📍 *Ruta: `/cashflow/images/`*
 
 - Balance global: ingresos, egresos, cashflow y saldo final.
 - Distribución de gastos operativos (proveedores, renta, impuestos...).
@@ -50,7 +50,7 @@ Diseñé y desarrollé un sistema de **dashboards financieros en Power BI**, con
 - Indicador: semanas de caja disponible por país.
 
 ### 4. **Dashboard de Deuda Consolidada**
-📍 *Ruta: `/deuda/`*
+📍 *Ruta: `/debt/images/`*
 
 - Total de deuda y desglose por moneda (MXN/USD).
 - Distribución por país, banco y tipo de tasa (fija/variable).
@@ -83,16 +83,16 @@ Diseñé y desarrollé un sistema de **dashboards financieros en Power BI**, con
 ## 🖼️ Capturas
 
 ### 📍 Dashboard General – Caja Consolidada  
-![Caja General](images/dashboard_general.png)
+![cash-position](images/cash_position_dashboard.png)
 
 ### 📍 Dashboard por País  
-![Caja País](images/dashboard_pais.png)
+![cash-position](images/cash_position_2_dashboard.png)
 
 ### 📍 Cashflow Mensual  
-![Cashflow](images/dashboard_cashflow.png)
+![cashflow](images/cashflow_dashboard.png)
 
 ### 📍 Deuda Consolidada  
-![Deuda](images/dashboard_deuda.png)
+![debt](images/debt_dashboard.png)
 
 🔐 Por razones de confidencialidad, no se incluyen archivos `.pbix` ni datos reales.
 
@@ -100,7 +100,18 @@ Diseñé y desarrollé un sistema de **dashboards financieros en Power BI**, con
 
 ## 📁 Estructura del repositorio
 
-
+📦 financial-dashboard/
+├── cashflow/
+│   └── images/
+│       └── cashflow_dashboard.png
+├── cash-position/
+│   └── images/
+│       ├── cash_position_dashboard.png
+│       └── cash_position_2_dashboard.png
+├── debt/
+│   └── images/
+│       └── debt_dashboard.png
+├── README.md
 
 ---
 
