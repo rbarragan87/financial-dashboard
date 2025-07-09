@@ -100,6 +100,7 @@ Diseñé y desarrollé un sistema de **dashboards financieros en Power BI**, con
 
 ## 📁 Estructura del repositorio
 
+```plaintext
 📦 financial-dashboard/
 ├── cashflow/
 │   └── images/
