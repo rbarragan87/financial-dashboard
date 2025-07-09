@@ -83,13 +83,13 @@ Diseñé y desarrollé un sistema de **dashboards financieros en Power BI**, con
 ## 🖼️ Capturas
 
 ### 📍 Dashboard General – Caja Consolidada  
-![cash-position](images/cash_position_dashboard.png)
+![cash-position](cash-position/images/cash_position_dashboard.png)
 
 ### 📍 Dashboard por País  
-![cash-position](images/cash_position_2_dashboard.png)
+![cash-position](cash-position/images/cash_position_2_dashboard.png)
 
 ### 📍 Cashflow Mensual  
-![cashflow](images/cashflow_dashboard.png)
+![cashflow](cashflow/images/cashflow_dashboard.png)
 
 ### 📍 Deuda Consolidada  
 ![debt](debt/images/debt_dashboard.png)
